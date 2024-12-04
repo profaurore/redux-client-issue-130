@@ -1,0 +1,19 @@
+{
+  "name": "redux-client-issue-130",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "scripts": {},
+  "author": "",
+  "license": "",
+  "description": "",
+  "devDependencies": {
+    "@types/react": "^18.3.13",
+    "typescript": "^5.7.2"
+  },
+  "dependencies": {
+    "@splitsoftware/splitio-redux": "^2.0.0",
+    "react": "^18.3.1",
+    "react-redux": "^9.1.2",
+    "redux": "^5.0.1"
+  }
+}
